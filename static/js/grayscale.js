@@ -33,7 +33,7 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
   }
 });
-
+/*
 // Google Maps Scripts
 var map = null;
 // When the window has finished loading create our google map below
@@ -185,3 +185,5 @@ function init() {
         icon: image
     });
 }
+*/
+
